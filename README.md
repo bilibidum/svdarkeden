@@ -1,4 +1,4 @@
-# svdarkeden
+# Gerenciador de gameserver do jogo DarkEden
 
 O svdarkeden é um gerenciador de serviços para o jogo DarkEden. 
 Este projeto permite aos administradores visualizar o status, iniciar e parar o servidor do jogo.
