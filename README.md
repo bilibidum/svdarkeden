@@ -18,6 +18,9 @@ https://github.com/bilibidum/svdarkeden.git
 ```
 sudo chmod a+x svdarkeden
 ``` 
+- edite o arquivo `config.sv` com o caminho do diretório principal que o servidor está instalado.
+  -- é necessário ter os arquivos bash de inicialização do servidor neste diretório. (login1, share1 e game1)
+  
 
 ## Uso
 
